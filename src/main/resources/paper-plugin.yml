@@ -1,4 +1,5 @@
 name: Region
+author: MortisDevelopment 
 version: '${project.version}'
 main: com.mortisdevelopment.regionplugin.RegionPlugin
 api-version: '1.20'
